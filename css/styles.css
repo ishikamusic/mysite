@@ -1,0 +1,183 @@
+body{
+margin: 0;
+color: #40514E;
+text-align: center;
+font-family: 'Merriweather', serif;
+}
+.top-container{
+  background-color: #abf0e9;
+  margin: 0;
+  position: relative;
+  padding: 100px;
+
+}
+.middle-container{
+  margin:100px 0;
+
+}
+.bottom-container{
+  background-color: #66bfbf;
+  padding:50px 0 20px;
+  color: #ffffff;
+}
+.top-cloud{
+  position: absolute;
+  right:400px;
+  top: 40px;
+}
+.bottom-cloud{
+  position: absolute;
+  left:300px;
+}
+.intro-line{
+  width:50%;
+  margin:auto;
+}
+h1{
+  margin-top: 50px;
+  margin-bottom: 0;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.26rem;
+  color: #66BFBF;
+
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  color:#66BFBF;
+  font-weight: normal;
+
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color:#11999E;
+
+}
+p{
+  line-height:2;
+}
+hr{
+  border:dotted #40514E 6px;
+  border-bottom:none;
+  width:4%;
+  margin:100px auto;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height:2;
+}
+.contact-message{
+  width:40%;
+  margin:40px auto 80px;
+  margin-bottom: 40px;
+
+}
+.footer-link{
+
+  color:#27496d;
+  font-size: 30px;
+}
+.dp{
+width: 20%;
+}
+.guitar{
+  width: 25%;
+  float: left;
+  margin-right:  30px;
+}
+.chillies{
+  width: 25%;
+  float: left;
+  margin-right:  30px;
+}
+.karaoke{
+  width: 25%;
+  float: right;
+  margin-left:  30px;
+
+}
+.dancer{
+  width: 25%;
+  float: left;
+  margin-right:  30px;
+
+}
+.pen{
+  width: 25%;
+  float: right;
+  margin-left:  30px;
+
+
+}
+a{
+  color:#599bb3;
+  margin:20px;
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: none;
+    font-size: 20px;
+}
+.hello{
+  margin-top: 50px;
+  margin-bottom: 0;
+  font-family: 'Sacramento', cursive;
+  font-size: 3.26rem;
+  color: #66BFBF;
+
+
+}
+.myskills{
+  font-size: 2.26rem
+}
+.get-in{
+  font-size: 2.26rem
+}
+.copyright{
+  font-size: 10px;
+}
+.endline{
+  font-size: 1rem;
+  width: 50%;
+  margin: 100px auto 100px auto;
+}
+.btn {
+	box-shadow: 0px 10px 14px -7px #276873;
+	background:linear-gradient(to bottom, #599bb3 5%, #408c99 100%);
+	background-color:#599bb3;
+	border-radius:8px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:20px;
+	font-weight:bold;
+	padding:15px 35px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #3d768a;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #408c99 5%, #599bb3 100%);
+	background-color:#408c99;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+.iframe-container{
+  position: relative;
+  width: 100%;
+  padding-bottom: 56.25%;
+  height: 0;
+  margin-top:150px;
+}
+.iframe-container iframe{
+  position: absolute;
+  top:0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.youtube{
+  width: 50%;
+  margin: 100px auto 100px auto;
+}
